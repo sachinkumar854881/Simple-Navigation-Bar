@@ -1,0 +1,16 @@
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:flex;
+    background-color:chartreuse;
+    height:30px;
+    font-size:20px;
+    line-height:30px;/*isse a ka text center mein aa jayega */ 
+}
+a{
+    text-decoration:none;
+    color:magenta;
+    padding:0 30px;
+
+}
